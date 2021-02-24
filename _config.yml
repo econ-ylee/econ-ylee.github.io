@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yurim Lee's Personal Webpage"
+title                    : "Yurim Lee"
 title_separator          : "-"
 name                     : &name "Yurim Lee"
 description              : &description "personal description"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+#  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -86,9 +86,9 @@ author:
   location         : "Ellensburg, WA"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=_AYZ4VEAAAAJ"
   email            : "yurim.lee@cwu.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Yurim-Lee-6"
   uri              :
   bitbucket        :
   codepen          :
