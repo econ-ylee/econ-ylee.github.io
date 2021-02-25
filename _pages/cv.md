@@ -10,34 +10,34 @@ redirect_from:
 {% include base_path %}
 
 ##Employment
-======
+
 * Assistant Professor, Department of Economics, Central Washington University, Sep. 2020 - Current.
 
 ##Education
-======
+
 * Ph.D. in Economics, University of Washington - Seattle, 2020
 * M.A. in Economics, University of Washington - Seattle, 2015
 * M.A. in Economics, Seoul National University, 2013
 * B.A. in Economics, Yonsei University, 2011
 
 ##Research and Teaching Fields
-======
+
 Macroeconomics, international economics, labor market, structural reforms, entrepreneurship
 
 ##Publications
-======
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 ##Working Papers
-======
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 ##Teaching Experience
-======
+
 * Central Washington University
   * ECON 202 Principles of Economics Macro
   * ECON 402 Intermediate Macroeconomics Analysis 
@@ -55,7 +55,7 @@ Macroeconomics, international economics, labor market, structural reforms, entre
   * Teaching Assistant, ECON 212.202 Macroeconomics
   
 ##Research Experience
-======
+
 * Research Assistant for Dr. Hongsoo Kim, 02/2013 – 05/2013
   * Health Services Research and Gerontology Lab, Department of Public Health Science, Seoul National University, Korea
 * Research Assistant for Professor Soyoung Kim, 03/2011 - 02/2013
