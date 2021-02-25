@@ -11,9 +11,13 @@ redirect_from:
 
 ## Address
 Shaw-Smyser 421
+
 Department of Economics
+
 Central Washington University
+
 400 E University Way
+
 Ellensburg, WA 98926
 
 ## Email
