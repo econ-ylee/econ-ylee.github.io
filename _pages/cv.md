@@ -41,20 +41,16 @@ Teaching Experience
 * Central Washington University
   * ECON 202 Principles of Economics Macro
   * ECON 402 Intermediate Macroeconomics Analysis 
- 
 * University of Washington - Seattle
   * Instructor, ECON 201 Introduction to Macro
   * Instructor, ECON 301 Intermediate Macroeconomics
   * Internship Instructor, ECON 399 Internship
   * Teaching Assistant, B ECON 500 Introduction to Business Economics (MBA course)
   * Teaching Assistant, FIN 423 Banking and the Financial System
-
 * Seattle University
   * Adjunct Faculty, ECON 2100 Business Statistics
-
 * Shoreline Community College
   * Adjunct Faculty, ECON&202 Macroeconomics
-
 * Seoul National University
   * Teaching Assistant, ECON 212.202 Macroeconomics
   
@@ -66,10 +62,6 @@ Research Experience
   * Department of Economics, Seoul National University, Korea
 * Research Assistant (Intern), POSCO Research Institute (POSRI), Korea, 01/2010 - 02/2010
   
-#Talks
-#======
-#  <ul>{% for post in site.talks %}
-#    {% include archive-single-talk-cv.html %}
-#  {% endfor %}</ul>
+
   
 
