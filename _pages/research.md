@@ -7,9 +7,13 @@ author_profile: true
 
 ## Publications
 
+### Financial Market Integration, Exchange Rate Policy, and the Dynamics of Business and Employment in Korea
+with Matteo Cacciatore and Fabio Ghironi, *NBER Chapter in: International Finance in the Global Markets, Journal of the Japanese and International Economies* 42 (December 2016, lead article): 79-99.
+[Download the paper here](http://econ-ylee.github.io/files/CacciatoreGhironiLeeJJIEManuscript021516.pdf)\
+
 ## Working Papers
 
-#### Excessive Firm Turnover in the Shadow of Unemployment 
+### Excessive Firm Turnover in the Shadow of Unemployment 
 [Download the latest draft here](http://econ-ylee.github.io/files/ExcessiveFirmTurnoverDraft_YLee.pdf)\
 [Poster version](http://econ-ylee.github.io/files/YurimLee_CWU_Poster_ASSA2021.pdf)
 
