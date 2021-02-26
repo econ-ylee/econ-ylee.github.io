@@ -1,6 +1,6 @@
 ---
 title: "Excessive Firm Turnover in the Shadow of Unemployment"
-collection: research
+collection: Research
 permalink: /research/excessive-firm-turnover
 excerpt: ''
 date: 2021-02-25
