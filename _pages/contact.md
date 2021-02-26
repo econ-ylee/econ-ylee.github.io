@@ -17,4 +17,4 @@ Central Washington University\
 Ellensburg, WA 98926
 
 ## Email
-yurim.lee 'at' cwu 'dot' edu
+[yurim.lee 'at' cwu 'dot' edu](mailto:yurim.lee@cwu.edu)
