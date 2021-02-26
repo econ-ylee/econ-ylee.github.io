@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 
-* ["Financial Market Integration, Exchange Rate Policy, and the Dynamics of Business and Employment in Korea,"](http://econ-ylee.github.io/files/CacciatoreGhironiLeeJJIEManuscript021516.pdf) with Matteo Cacciatore and Fabio Ghironi, *NBER Chapter in: International Finance in the Global Markets, Journal of the Japanese and International Economies* 42 (December 2016, lead article): 79-99.
+* "[Financial Market Integration, Exchange Rate Policy, and the Dynamics of Business and Employment in Korea](http://econ-ylee.github.io/files/CacciatoreGhironiLeeJJIEManuscript021516.pdf)," with Matteo Cacciatore and Fabio Ghironi, *NBER Chapter in: International Finance in the Global Markets, Journal of the Japanese and International Economies* 42 (December 2016, lead article): 79-99.
 
 ## Working Papers
 
