@@ -11,7 +11,7 @@ author_profile: true
 
 ## Working Papers
 
-* Excessive Firm Turnover in the Shadow of Unemployment, *working paper* 
+* Excessive Firm Turnover in the Shadow of Unemployment, *working paper*\
 [Download the latest draft here](http://econ-ylee.github.io/files/ExcessiveFirmTurnoverDraft_YLee.pdf)\
 [Poster version](http://econ-ylee.github.io/files/YurimLee_CWU_Poster_ASSA2021.pdf)
 
