@@ -2,7 +2,7 @@
 title: "Excessive Firm Turnover in the Shadow of Unemployment"
 collection: Research
 permalink: /research/excessive-firm-turnover
-<!-- excerpt: -->
+excerpt: 
 date: 2021-02-25
 venue: 'working paper'
 paperurl: 'http://econ-ylee.github.io/files/YLee_JMP_Feb_2020.pdf'
