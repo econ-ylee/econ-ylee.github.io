@@ -22,7 +22,7 @@ redirect_from:
 
 ## Research and Teaching Fields
 
-Macroeconomics, international economics, labor market, structural reforms, entrepreneurship
+Macroeconomics, international macroeconomics, labor market, structural reforms, entrepreneurship
 
 ## Publications
 
@@ -30,11 +30,19 @@ Macroeconomics, international economics, labor market, structural reforms, entre
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Drafts are available under the Research tab.
+
+* "Financial Market Integration, Exchange Rate Policy, and the Dynamics of Business and Employment in Korea," with Matteo Cacciatore and Fabio Ghironi, NBER Chapter in: International Finance in the Global Markets, Journal of the Japanese and International Economies 42 (December 2016, lead article): 79-99.
+  
 ## Working Papers
 
   <ul>{% for post in site.research %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+* "Excessive Firm Turnover in the Shadow of Unemployment."
+* "Trade Liberalization and Structural Reforms Under Self-Employment." 
+* "Growth, Unemployment, and the Public Sector," with Alejandro González. 
 
 ## Teaching Experience
 
