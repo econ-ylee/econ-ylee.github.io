@@ -72,7 +72,7 @@ Drafts are available under the Research tab.
   
 ## Professional and Service Activities 
 
-* Conferences 
+* Conferences and Presentations
   * 2021: ASSA 2021 Poster Session
   * 2020: Korean Economic Review International Conference (KERIC)
   * 2018: T. S. Kim Seminar, Seoul National University, Korea  
