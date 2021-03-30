@@ -32,7 +32,7 @@ Macroeconomics, international macroeconomics, labor market, structural reforms, 
   
 Drafts are available under the Research tab.
 
-* "Financial Market Integration, Exchange Rate Policy, and the Dynamics of Business and Employment in Korea," with Matteo Cacciatore and Fabio Ghironi, NBER Chapter in: International Finance in the Global Markets, Journal of the Japanese and International Economies 42 (December 2016, lead article): 79-99.
+* "Financial Market Integration, Exchange Rate Policy, and the Dynamics of Business and Employment in Korea," with Matteo Cacciatore and Fabio Ghironi, NBER Chapter in: International Finance in the Global Markets, *Journal of the Japanese and International Economies* 42 (December 2016, lead article): 79-99.
   
 ## Working Papers
 
@@ -70,6 +70,11 @@ Drafts are available under the Research tab.
   * Department of Economics, Seoul National University, Korea
 * Research Assistant (Intern), POSCO Research Institute (POSRI), Korea, 01/2010 - 02/2010
   
+## Professional and Service Activities 
 
-  
+* Conferences 
+  * 2021: ASSA 2021 Poster Session
+  * 2020: Korean Economic Review International Conference (KERIC)
+  * 2018: T. S. Kim Seminar, Seoul National University, Korea  
 
+* Refereeing for peer-reviewed journals: Macroeconomic Dynamics; Emerging Markets Finance and Trade; Advances in Economics, Business and Management Research
