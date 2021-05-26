@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+The PDF version of my CV can be found [here](http://econ-ylee.github.io/files/CV_052521.pdf).
+
 ## Employment
 
 * Assistant Professor, Department of Economics, Central Washington University, Sep. 2020 - Current.
