@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For a full PDF version of my CV, click [here](http://econ-ylee.github.io/files/CV_052521.pdf).
+For the full PDF version of my CV, click [here](http://econ-ylee.github.io/files/CV_052521.pdf).
 
 ## Employment
 
