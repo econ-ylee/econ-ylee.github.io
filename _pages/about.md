@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal webpage! My name is Yurim Lee and I am currently an assistant professor in the Department of Economics at Central Washington University (CWU). 
+Welcome to my personal webpage! My name is Yurim Lee and I am currently an assistant professor in the Department of Economics at Central Washington University (CWU), located in Ellensburg, Washington.  
 
 My research interests are macroeconomics, international economics, labor market, structural reforms and entrepreneurship. Specifically, I study why workers have an incentive to become small mom-and-pop business owners and how this occupational choice can have an effect on business cycle dynamics, macroeconomic inefficiency, and policy reforms. 
 
