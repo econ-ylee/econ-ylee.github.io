@@ -1,20 +1,21 @@
----
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
+### Central Washington University (Current) - Ellensburg, WA
+- ECON 130 Foundations for Business Analytics
+- ECON 202 Principles of Economics Macro
+- ECON 402 Intermediate Macroeconomics Analysis
+- ECON 330 Money and Banking (starting in AY 2022-2023)
 
-This is a description of a teaching experience. You can use markdown like any other post.
+### University of Washington - Seattle, WA
+- ECON 201 Introduction to Macroeconomics
+- ECON 301 Intermediate Macroeconomics
+- ECON 399 Internship (Internship Instructor)
+- B ECON 500 Introduction to Business Economics (MBA course), teaching assistant
+- FIN 423 Banking and the Financial System, teaching assistant
 
-Heading 1
-======
+### Seattle University - Seattle, WA
+- ECON 2100 Business Statistics
 
-Heading 2
-======
+### Shoreline Community College - Shoreline, WA
+- ECON&202 Macroeconomics
 
-Heading 3
-======
+### Seoul National University - Seoul, Korea
+- ECON 212.202 Macroeconomics, teaching assistant
