@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-## Address
+### Address
 Shaw-Smyser 421\
 Department of Economics\
 Central Washington University\
 400 E University Way\
 Ellensburg, WA 98926
 
-## Email
+### Email
 [yurim.lee 'at' cwu 'dot' edu](mailto:yurim.lee@cwu.edu)
