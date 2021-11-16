@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+{% include base_path %}
+
 ### Central Washington University (Current) - Ellensburg, WA
 - ECON 130 Foundations for Business Analytics
 - ECON 202 Principles of Economics Macro
