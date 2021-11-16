@@ -44,11 +44,14 @@ Drafts are available under the Research tab.
 
 * "Excessive Firm Turnover in the Shadow of Unemployment."
 * "Trade Liberalization and Structural Reforms Under Self-Employment." 
-* "Growth, Unemployment, and the Public Sector," with Alejandro González. 
+* "Reducing the United States' Risks of Dependency on China in the Rare Earth Market," with Tennecia Dacass (CWU).
+* "Growth, Unemployment, and the Public Sector," with Alejandro González (WUSTL).
+* "Reflections on the Volcker Rule: Innovations in the Financial Services Industry and Fixing Too Big to Succeed," with Koushik Ghosh (CWU). 
 
 ## Teaching Experience
 
 * Central Washington University
+  * ECON 130 Foundations for Business Analytics
   * ECON 202 Principles of Economics Macro
   * ECON 402 Intermediate Macroeconomics Analysis 
 * University of Washington - Seattle
