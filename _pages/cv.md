@@ -26,7 +26,7 @@ For the full PDF version of my CV, click [here](http://econ-ylee.github.io/files
 
 Macroeconomics, international macroeconomics, labor market, structural reforms, entrepreneurship
 
-## Publications
+## Journal Publications
 
   <ul>{% for post in site.research %}
     {% include archive-single-cv.html %}
@@ -47,6 +47,10 @@ Drafts are available under the Research tab.
 * "Excessive Firm Turnover in the Shadow of Unemployment."
 * "Trade Liberalization and Structural Reforms Under Self-Employment." 
 * "Growth, Unemployment, and the Public Sector."
+
+## Other Publications
+
+* *Principles of Macroeconomics Workbook*, Kendall Hunt, 2022. (https://he.kendallhunt.com/product/principles-macroeconomics-workbook)
 
 ## Teaching Experience
 
