@@ -34,6 +34,8 @@ Macroeconomics, international macroeconomics, labor market, structural reforms, 
   
 Drafts are available under the Research tab.
 
+* “Reducing the United States’ Risks of Dependency on China in the Rare Earth Market,” with Tennecia Dacass, accepted at *Resources Policy* (2022).
+* “Reflections on the Volcker Rule: Innovations in the Financial Services Industry and Fixing Too Big to Succeed,” with Koushik Ghosh, *Challenge* (2022): 1-10.
 * "Financial Market Integration, Exchange Rate Policy, and the Dynamics of Business and Employment in Korea," with Matteo Cacciatore and Fabio Ghironi, NBER Chapter in: International Finance in the Global Markets, *Journal of the Japanese and International Economies* 42 (December 2016, lead article): 79-99.
   
 ## Working Papers
@@ -44,9 +46,7 @@ Drafts are available under the Research tab.
 
 * "Excessive Firm Turnover in the Shadow of Unemployment."
 * "Trade Liberalization and Structural Reforms Under Self-Employment." 
-* "Reducing the United States' Risks of Dependency on China in the Rare Earth Market," with Tennecia Dacass (CWU).
-* "Growth, Unemployment, and the Public Sector," with Alejandro González (WUSTL).
-* "Reflections on the Volcker Rule: Innovations in the Financial Services Industry and Fixing Too Big to Succeed," with Koushik Ghosh (CWU). 
+* "Growth, Unemployment, and the Public Sector."
 
 ## Teaching Experience
 
@@ -78,8 +78,9 @@ Drafts are available under the Research tab.
 ## Professional and Service Activities 
 
 * Conferences and Presentations
+  * 2022: WEAI 97th Annual Conference (Scheduled)
   * 2021: ASSA 2021 Poster Session
-  * 2020: Korean Economic Review International Conference (KERIC)
+  * 2020: Korean Economic Review International Conference (KERIC), Southern Economic Association (SEA) 90th Annual Meeting (Invited)
   * 2018: T. S. Kim Seminar, Seoul National University, Korea  
 
 * Refereeing for peer-reviewed journals: Macroeconomic Dynamics; Emerging Markets Finance and Trade; Advances in Economics, Business and Management Research
