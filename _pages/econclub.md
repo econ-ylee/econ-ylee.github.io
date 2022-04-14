@@ -8,7 +8,7 @@ author_profile: true
 
 Bi-weekly Thursdays 5:30pm @ Shaw-Smyser 205
 
-Zoom link for hybrid meetings: https://cwu.zoom.us/j/81377240303?pwd=ekdtaGZZWHlyeDNRYTUyNlF3ZFYyZz09
+For hybrid meetings, use the following [Zoom link](https://cwu.zoom.us/j/81377240303?pwd=ekdtaGZZWHlyeDNRYTUyNlF3ZFYyZz09).
 
 ### Spring 2022
 - 3/31 - Freakonomics Movie and Pizza Night
