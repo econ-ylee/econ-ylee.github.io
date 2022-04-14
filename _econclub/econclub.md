@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Econ Club"
+permalink: /econclub/
+author_profile: true
+---
+
 # Econ Club Schedule
 
 Bi-weekly Thursdays 5:30pm @ Shaw-Smyser 205
