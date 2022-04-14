@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Econ Club"
 permalink: /econclub/
 author_profile: true
 ---
