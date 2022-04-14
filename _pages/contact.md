@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ### Address
-Shaw-Smyser 421\
+Shaw-Smyser 238\
 Department of Economics\
 Central Washington University\
 400 E University Way\
