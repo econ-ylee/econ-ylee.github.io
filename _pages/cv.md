@@ -50,7 +50,7 @@ Drafts are available under the Research tab.
 
 ## Other Publications
 
-* *Principles of Macroeconomics Workbook*, Kendall Hunt, 2022. (https://he.kendallhunt.com/product/principles-macroeconomics-workbook)
+* *Principles of Macroeconomics Workbook*, Kendall Hunt, 2022. [(Link)](https://he.kendallhunt.com/product/principles-macroeconomics-workbook)
 
 ## Teaching Experience
 
