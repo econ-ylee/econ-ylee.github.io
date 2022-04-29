@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 
-* "Reducing the United States’ Risks of Dependency on China in the Rare Earth Market," with Tennecia Dacass, accepted at *Resources Policy* (2022).
+* "[Reducing the United States’ Risks of Dependency on China in the Rare Earth Market](https://authors.elsevier.com/a/1e%7Ehu14YFx41PZ)," with Tennecia Dacass, *Resources Policy* (2022).
 * "[Reflections on the Volcker Rule: Innovations in the Financial Services Industry and Fixing Too Big to Succeed](https://www.tandfonline.com/doi/full/10.1080/05775132.2022.2038888)," with Koushik Ghosh, *Challenge* (2022): 1-10. 
 * "[Financial Market Integration, Exchange Rate Policy, and the Dynamics of Business and Employment in Korea](http://econ-ylee.github.io/files/CacciatoreGhironiLeeJJIEManuscript021516.pdf)," with Matteo Cacciatore and Fabio Ghironi, *NBER Chapter in: International Finance in the Global Markets, [Journal of the Japanese and International Economies](https://www.sciencedirect.com/science/article/pii/S0889158316300296)* 42 (December 2016, lead article): 79-99.
 
