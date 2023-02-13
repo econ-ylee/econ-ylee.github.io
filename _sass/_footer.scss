@@ -51,7 +51,8 @@
   .fab,
   .far,
   .fal {
-    color: mix(#fff, $gray, 25%);
+//     color: mix(#fff, $gray, 25%);
+     color: $lighter-gray;
   }
 }
 
