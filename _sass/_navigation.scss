@@ -374,7 +374,8 @@
   color: $gray;
   text-transform: uppercase;
   letter-spacing: 1px;
-  background-color: #fff;
+//   background-color: #fff;
+  backgroun-color: mix(#fff, #246E74, 25%);
   border: 1px solid $border-color;
   border-radius: $border-radius;
   box-shadow: $box-shadow;
