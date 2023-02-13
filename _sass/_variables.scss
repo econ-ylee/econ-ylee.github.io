@@ -93,13 +93,13 @@ $xing-color                 : #006567;
 
 /* links */
 // $link-color                 : #347B98;
-$link-color: #2B4676
+$link-color: #2B4676;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
-
+ 
 /*
    Breakpoints
    ========================================================================== */
