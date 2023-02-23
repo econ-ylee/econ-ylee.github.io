@@ -14,8 +14,4 @@ My research interests are macroeconomics, international economics, labor market,
 
 I received my Ph.D. at University of Washington - Seattle (UW), M.A.s from UW and Seoul National University (Seoul, Korea), and B.A. from Yonsei University (Seoul, Korea), majoring in Economics for all of them.  
 
-I am originally from Korea and speak fluent English and Korean....
-
-
-git status ## Show changed files
-git add <FILES THAT CHANGED>
+I am originally from Korea and speak fluent English and Korean.
