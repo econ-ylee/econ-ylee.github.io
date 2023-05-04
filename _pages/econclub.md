@@ -5,11 +5,20 @@ author_profile: true
 title: Econ Club Schedule
 ---
 
+### Spring 2023
+
+Bi-weekly Mondays 6pm @ Shaw-Smyser 205
+
+- 5/1 - Student Research Day with free pizza
+- 5/15 - [Guest Speaekr] Earth Economics with Dr. Olivia Molden
+- 5/22 - Freight train monopolies with Landen Hashimura
+
+### Spring 2022
+
 Bi-weekly Thursdays 5:30pm @ Shaw-Smyser 205
 
 For hybrid meetings, use the following [Zoom link](https://cwu.zoom.us/j/81377240303?pwd=ekdtaGZZWHlyeDNRYTUyNlF3ZFYyZz09).
 
-### Spring 2022
 - 3/31 - Freakonomics Movie and Pizza Night
 - 4/19 (TUESDAY) - Joint with Beyond Business: Insight to Your Financial Future ([Use this Zoom link](https://cwu.zoom.us/j/83976147879))
 

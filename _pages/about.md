@@ -14,8 +14,17 @@ My research interests are macroeconomics, international economics, labor market,
 
 I received my Ph.D. at University of Washington - Seattle (UW), M.A.s from UW and Seoul National University (Seoul, Korea), and B.A. from Yonsei University (Seoul, Korea), majoring in Economics for all of them.  
 
-I am originally from Korea and speak fluent English and Korean....
+I am originally from Korea and speak fluent English and Korean.
 
 
-git status ## Show changed files
+<!-- On terminal
+  cd "/Users/leeyur/Library/CloudStorage/GoogleDrive-yrlee88@gmail.com/My Drive/MacBook Pro/Important Documents/econ-ylee.github.io" 
+  git status ## Show changed files
 git add <FILES THAT CHANGED>
+...
+git commit -m "<COMMIT MESSAGE>"
+git push origin master (USER THE PERSONAL KEY AS PASSWORD)
+
+OR 
+git pull origin master
+-->
