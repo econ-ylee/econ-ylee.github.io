@@ -16,7 +16,6 @@ I received my Ph.D. at University of Washington - Seattle (UW), M.A.s from UW an
 
 I am originally from Korea and speak fluent English and Korean.
 
-
 <!-- On terminal
   cd "/Users/leeyur/Library/CloudStorage/GoogleDrive-yrlee88@gmail.com/My Drive/MacBook Pro/Important Documents/econ-ylee.github.io" 
   git status ## Show changed files
@@ -28,3 +27,4 @@ git push origin master (USER THE PERSONAL KEY AS PASSWORD)
 OR 
 git pull origin master
 -->
+
