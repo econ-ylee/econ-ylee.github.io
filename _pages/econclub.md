@@ -10,7 +10,7 @@ title: Econ Club Schedule
 Bi-weekly Mondays 6pm @ Shaw-Smyser 205
 
 - 5/1 - Student Research Day with free pizza
-- 5/15 - [Guest Speaekr] Earth Economics with Dr. Olivia Molden
+- 5/15 - [Guest Speaker] Earth Economics with Dr. Olivia Molden
 - 5/22 - Freight train monopolies with Landen Hashimura
 
 ### Spring 2022
