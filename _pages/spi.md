@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /cwuspi/
+permalink: /spi/
 author_profile: true
 title: Central Washington University (CWU) Student Price Index (SPI)
 ---
