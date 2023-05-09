@@ -5,7 +5,7 @@ author_profile: true
 title: Central Washington University (CWU) Student Price Index (SPI)
 ---
 
-### Student Price Index (SPI) Project
+## Student Price Index (SPI) Project
 
 Since Fall 2020, the Economics Association and the Department of Economics at CWU are jointly leading a project that aims to develop a price index to determine the cost of college living in Ellensburg, Washington. Every month, based on a campus-wide survey, the Economic Association members gather prices of goods commonly consumed by CWU students from different stores in Ellensburg to compute the SPI and inflation rates. This index serves to identify the price changes that students in Ellensburg encounter, making it a valuable tool.
 
@@ -18,12 +18,12 @@ Monthly updates on the SPI can be found below, on the [Kittitas County Chamber o
 [November 2022](http://econ-ylee.github.io/files/November_2022_CWU_SPI_update.pdf) | 
 [October 2022](http://econ-ylee.github.io/files/October_2022_CWU_SPI_update.pdf)
 
-# The SPI project has been featured in:
+## The SPI project has been featured in:
 
 * [CWU Pulse Magazine, Winter 2023](https://issuu.com/cwupulse/docs/winter_2023).
 * The Voyage Magazine by the College of Business, CWU, Spring 2023 (upcoming).
 
-# The SPI project was presented at: 
+## The SPI project was presented at: 
 
 * The Economic Outlook Conference 2023, Department of Economics, CWU.
 * CWU Symposium of University Research and Creative Expression (SOURCE) 2023.
