@@ -57,6 +57,7 @@ Drafts are available under the Research tab.
 * Central Washington University
   * ECON 130 Foundations for Business Analytics
   * ECON 202 Principles of Economics Macro
+  * ECON 330 Money and Banking
   * ECON 402 Intermediate Macroeconomics Analysis 
 * University of Washington - Seattle
   * Instructor, ECON 201 Introduction to Macro
@@ -82,7 +83,8 @@ Drafts are available under the Research tab.
 ## Professional and Service Activities 
 
 * Conferences and Presentations
-  * 2022: WEAI 97th Annual Conference (Scheduled)
+  * 2023: Korean Economic Review International Conference (KERIC) (scheduled), Pacific Northwest Regional Economic Conference 2023
+  * 2022: WEAI 97th Annual Conference
   * 2021: ASSA 2021 Poster Session
   * 2020: Korean Economic Review International Conference (KERIC), Southern Economic Association (SEA) 90th Annual Meeting (Invited)
   * 2018: T. S. Kim Seminar, Seoul National University, Korea  
