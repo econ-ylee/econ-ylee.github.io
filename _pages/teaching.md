@@ -10,8 +10,8 @@ author_profile: true
 ### Central Washington University (Current) - Ellensburg, WA
 - ECON 130 Foundations for Business Analytics
 - ECON 202 Principles of Economics Macro
+- ECON 330 Money and Banking 
 - ECON 402 Intermediate Macroeconomics Analysis
-- ECON 330 Money and Banking (starting in AY 2022-2023)
 
 ### University of Washington - Seattle, WA
 - ECON 201 Introduction to Macroeconomics

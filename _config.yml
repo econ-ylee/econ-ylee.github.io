@@ -84,7 +84,7 @@ author:
   avatar           : "OfficialPhoto_Sqaure_Aug2020_vsmall.jpg"
   bio              : "Assistant Professor of Economics at Central Washington University"
   location         : "Ellensburg, WA"
-  employer         : "https://www.cwu.edu/economics/"
+  # employer         : "https://www.cwu.edu/economics/"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=_AYZ4VEAAAAJ"
   email            : "yurim.lee@cwu.edu"
@@ -99,7 +99,7 @@ author:
 #  github           : "econ-ylee"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/cwuecon_drlee/"
+  instagram        : "https://www.instagram.com/cwuecon_drlee"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "yurimlee"
