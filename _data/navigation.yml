@@ -11,9 +11,6 @@ main:
 
   - title: "Student Price Index"
     url: /spi/
-    
-  - title: "Econ Club"
-    url: /econclub/
 
   - title: "Contact"
     url: /contact/

@@ -83,7 +83,8 @@ Drafts are available under the Research tab.
 ## Professional and Service Activities 
 
 * Conferences and Presentations
-  * 2023: Korean Economic Review International Conference (KERIC) (scheduled), Pacific Northwest Regional Economic Conference 2023
+  * 2024: 50th Eastern Economic Association (EEA) Annual Conference (scheduled), Pacific Northwest Regional Economic Conference 2024 (scheduled), University of Jordan (scheduled)
+  * 2023: Korean Economic Review International Conference (KERIC), Pacific Northwest Regional Economic Conference 2023
   * 2022: WEAI 97th Annual Conference
   * 2021: ASSA 2021 Poster Session
   * 2020: Korean Economic Review International Conference (KERIC), Southern Economic Association (SEA) 90th Annual Meeting (Invited)
