@@ -15,10 +15,10 @@ Since January 2021, the Economics Association and the Department of Economics at
 
 Monthly updates on the SPI can be found below, on the [Kittitas County Chamber of Commerce website](https://www.kittitascountychamber.com/choose-kittitas-county/), or on instagram at [@cwuecon_drlee](https://www.instagram.com/cwuecon_drlee/). 
 
-[Dec 2023](http://econ-ylee.github.io/files/Dec_2023_CWU_SPI_update.pdf) | 
-[Nov 2023](http://econ-ylee.github.io/files/Nov_2023_CWU_SPI_update.pdf) | 
-[Oct 2023](http://econ-ylee.github.io/files/Oct_2023_CWU_SPI_update.pdf) | 
-[Sep 2023](http://econ-ylee.github.io/files/Sep_2023_CWU_SPI_update.pdf) | 
+[Dec 2023](http://econ-ylee.github.io/files/December_2023_CWU_SPI_update.pdf) | 
+[Nov 2023](http://econ-ylee.github.io/files/November_2023_CWU_SPI_update.pdf) | 
+[Oct 2023](http://econ-ylee.github.io/files/October_2023_CWU_SPI_update.pdf) | 
+[Sep 2023](http://econ-ylee.github.io/files/September_2023_CWU_SPI_update.pdf) | 
 [Apr 2023](http://econ-ylee.github.io/files/April_2023_CWU_SPI_update.pdf) | 
 [Mar 2023](http://econ-ylee.github.io/files/March_2023_CWU_SPI_update.pdf) | 
 [Feb 2023](http://econ-ylee.github.io/files/February_2023_CWU_SPI_update.pdf) | 
