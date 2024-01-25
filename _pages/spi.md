@@ -30,15 +30,23 @@ Monthly updates on the SPI can be found below, on the [Kittitas County Chamber o
 ## The SPI project has been featured in:
 
 * [CWU Pulse Magazine, Winter 2023](https://issuu.com/cwupulse/docs/winter_2023).
-* The Voyage Magazine by the College of Business, CWU, Spring 2023 (upcoming).
+* [The Voyage Magazine by the College of Business, CWU, Summer 2023](https://online.flippingbook.com/view/888523620/12/).
 
 ## The SPI project was presented at: 
 
-* The Economic Outlook Conference 2023, Department of Economics, CWU.
+* Pacific Northwest Regional Economics Conference (PNREC) 2024 in Bend, Oregon (scheduled).
+* 20th Economic Outlook Conference 2024, Department of Economics, CWU (scheduled).
+* CWU Board of Trustees Meeting, Feb. 2024 (scheduled).
+* 19th Economic Outlook Conference 2023, Department of Economics, CWU.
 * CWU Symposium of University Research and Creative Expression (SOURCE) 2023.
 * Pacific Northwest Regional Economics Conference (PNREC) 2023 in Walla Walla, WA.
 * CWU Symposium of University Research and Creative Expression (SOURCE) 2022: award recipient for the College of Business.
 * Pacific Northwest Regional Economics Conference (PNREC) 2022 in Hood River, OR.
+
+## The SPI has received: 
+
+* 2023 CWU Faculty-Student Provost Research Grant ($1,500)
+* 2022 CWU Faculty-Student Provost Research Grant ($3,000)
 
 ## Contributors (as of Spring 2023)
 
