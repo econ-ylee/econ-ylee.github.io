@@ -11,10 +11,22 @@ Since January 2021, the Economics Association and the Department of Economics at
 
 ![one page summary](http://econ-ylee.github.io/images/CWU_SPI_Poster_2023_Letter.png)
 
-## Monthly Update Reports
+## Interested in Participating?
 
-Monthly updates on the SPI can be found below, on the [Kittitas County Chamber of Commerce website](https://www.kittitascountychamber.com/choose-kittitas-county/), or on instagram at [@cwuecon_drlee](https://www.instagram.com/cwuecon_drlee/). 
+Fill out [this form](https://forms.office.com/r/BNTDqakXb3) and we will reach out to you via your CWU email.
 
+## Monthly Update Reports 
+
+Monthly updates on the SPI can be found below, on the [Kittitas County Chamber of Commerce website](https://www.kittitascountychamber.com/choose-kittitas-county/), or on Instagram at [@cwuecon_drlee](https://www.instagram.com/cwuecon_drlee/). 
+
+[Aug 2024](http://econ-ylee.github.io/files/August_2024_CWU_SPI_update.pdf) | 
+[Jul 2024](http://econ-ylee.github.io/files/July_2024_CWU_SPI_update.pdf) | 
+[Jun 2024](http://econ-ylee.github.io/files/June_2024_CWU_SPI_update.pdf) | 
+[May 2024](http://econ-ylee.github.io/files/May_2024_CWU_SPI_update.pdf) | 
+[Apr 2024](http://econ-ylee.github.io/files/April_2024_CWU_SPI_update.pdf) | 
+[Mar 2024](http://econ-ylee.github.io/files/March_2024_CWU_SPI_update.pdf) | 
+[Feb 2024](http://econ-ylee.github.io/files/February_2024_CWU_SPI_update.pdf) | 
+[Jan 2024](http://econ-ylee.github.io/files/Janurary_2024_CWU_SPI_update.pdf) | 
 [Dec 2023](http://econ-ylee.github.io/files/December_2023_CWU_SPI_update.pdf) | 
 [Nov 2023](http://econ-ylee.github.io/files/November_2023_CWU_SPI_update.pdf) | 
 [Oct 2023](http://econ-ylee.github.io/files/October_2023_CWU_SPI_update.pdf) | 
@@ -34,9 +46,9 @@ Monthly updates on the SPI can be found below, on the [Kittitas County Chamber o
 
 ## The SPI project was presented at: 
 
-* Pacific Northwest Regional Economics Conference (PNREC) 2024 in Bend, Oregon (scheduled).
-* 20th Economic Outlook Conference 2024, Department of Economics, CWU (scheduled).
-* CWU Board of Trustees Meeting, Feb. 2024 (scheduled).
+* Pacific Northwest Regional Economics Conference (PNREC) 2024 in Bend, Oregon).
+* 20th Economic Outlook Conference 2024, Department of Economics, CWU.
+* CWU Board of Trustees Meeting, Feb. 2024.
 * 19th Economic Outlook Conference 2023, Department of Economics, CWU.
 * CWU Symposium of University Research and Creative Expression (SOURCE) 2023.
 * Pacific Northwest Regional Economics Conference (PNREC) 2023 in Walla Walla, WA.
@@ -45,11 +57,19 @@ Monthly updates on the SPI can be found below, on the [Kittitas County Chamber o
 
 ## The SPI has received: 
 
+* Career Services Funds, 2024 ($1,111)
 * 2023 CWU Faculty-Student Provost Research Grant ($1,500)
 * 2022 CWU Faculty-Student Provost Research Grant ($3,000)
 
-## Contributors (as of Spring 2023)
+## Student testimonials on the project
 
-* Faculty advisor: Yurim Lee
-* Co-advisor on student expenditure survey: David Zuckerman, CWU
-* Student participants: Sophia Apostolides, Joel Antush, Jocelyn Cruz, Kaleb Eskridge, James Gibson, Marissa Harrison, Landen Hashimura (Vice President), Daizie Jones, Caden McNair (Report Writer), Jeremy Rexus, Mia Young (President)
+* ``The Student Price Index has allowed me the opportunity to have hands on experience working with large data sets in a non-controlled environment like the classroom. This project has reinforced and built upon critical skills developed in the Economic Department courses.'' - S. Apostolides
+* ``The SPI project has helped develop my ability to think critically and collaborate effectively with my peers. Through this, I have been able to apply theoretical concepts I have learned to real-world applications and better my understanding of economic research.'' - Caden McNair
+* ``
+As an economics student, the SPI gave me the chance to engage in academic research from an early stage. Starting as a presenter and price collector, my involvement boosted my confidence as a researcher and allowed me to see real-world applications of economics. This experience sparked a passion for research, leading me to pursue a master's degree, a future Ph.D., and a career in academia. As the youngest in my master's cohort, the SPI project has helped me thrive in academic discussions and provided a sense of belonging and accomplishment that continues to shape my work.'` - L. Hashimura
+
+## Contributors (as of Fall 2024)
+
+* Faculty Advisor and PI: Dr. Yurim Lee
+* Co-Advisor on the Student Expenditure Survey: Dr. David Zuckerman, CWU
+* Student Participants: Amneet Pawar (Student Lead), Aiden Blanco, Jocelyn Cruz, Morgan Holman, Ryder Moss, Ian Seibel, Cole Smith, Lilly Thomas
