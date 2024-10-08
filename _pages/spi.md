@@ -64,9 +64,8 @@ Monthly updates on the SPI can be found below, on the [Kittitas County Chamber o
 ## Student testimonials on the project
 
 * ``The Student Price Index has allowed me the opportunity to have hands on experience working with large data sets in a non-controlled environment like the classroom. This project has reinforced and built upon critical skills developed in the Economic Department courses.'' - S. Apostolides
-* ``The SPI project has helped develop my ability to think critically and collaborate effectively with my peers. Through this, I have been able to apply theoretical concepts I have learned to real-world applications and better my understanding of economic research.'' - Caden McNair
-* ``
-As an economics student, the SPI gave me the chance to engage in academic research from an early stage. Starting as a presenter and price collector, my involvement boosted my confidence as a researcher and allowed me to see real-world applications of economics. This experience sparked a passion for research, leading me to pursue a master's degree, a future Ph.D., and a career in academia. As the youngest in my master's cohort, the SPI project has helped me thrive in academic discussions and provided a sense of belonging and accomplishment that continues to shape my work.'` - L. Hashimura
+* ``The SPI project has helped develop my ability to think critically and collaborate effectively with my peers. Through this, I have been able to apply theoretical concepts I have learned to real-world applications and better my understanding of economic research.'' - C. McNair
+* ``As an economics student, the SPI gave me the chance to engage in academic research from an early stage. Starting as a presenter and price collector, my involvement boosted my confidence as a researcher and allowed me to see real-world applications of economics. This experience sparked a passion for research, leading me to pursue a master's degree, a future Ph.D., and a career in academia. As the youngest in my master's cohort, the SPI project has helped me thrive in academic discussions and provided a sense of belonging and accomplishment that continues to shape my work.'' - L. Hashimura
 
 ## Contributors (as of Fall 2024)
 
