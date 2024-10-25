@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For the full PDF version of my CV, click [here](http://econ-ylee.github.io/files/Yurim_Lee_CV_0623.pdf).
+For the full PDF version of my CV, click [here](http://econ-ylee.github.io/files/Yurim_Lee_CV_Oct2024.pdf).
 
 ## Employment
 
@@ -45,7 +45,12 @@ Drafts are available under the Research tab.
   {% endfor %}</ul>
 
 * "Excessive Firm Turnover in the Shadow of Unemployment."
+* “Do Conference Calls Reduce Information Asymmetry When Bad News is Released?” with Han Donker
+(CWU).
+* “Sexual Harassment Training Laws and ESG Performance” with Jaap Donker (CWU) and Toni Sipic
+(CWU).
 * "Trade Liberalization and Structural Reforms Under Self-Employment." 
+* “Measuring Political Regimes in Economic Growth”.
 * "Growth, Unemployment, and the Public Sector."
 
 ## Other Publications
@@ -83,11 +88,26 @@ Drafts are available under the Research tab.
 ## Professional and Service Activities 
 
 * Conferences and Presentations
-  * 2024: 50th Eastern Economic Association (EEA) Annual Conference (scheduled), Pacific Northwest Regional Economic Conference 2024 (scheduled), University of Jordan (scheduled)
-  * 2023: Korean Economic Review International Conference (KERIC), Pacific Northwest Regional Economic Conference 2023
-  * 2022: WEAI 97th Annual Conference
-  * 2021: ASSA 2021 Poster Session
+  * 2024: European Accounting Association (EAA) 46th Annual Congress (Bucharest, Romania), Invited
+Talk at the University of Jordan (Amman, Jordan), Pacific Northwest Regional Economic
+Conference (PNREC; Bend, OR), Eastern Economic Association (EEA) 50th Annual Conference
+(Boston, MA), 20th Annual Economic Outlook Conference (Ellensburg, WA)
+  * 2023: Pacific Northwest Regional Economic Conference (PNREC; Walla Walla, WA), 19th Annual
+Economic Outlook Conference (Ellensburg, WA), Korean Economic Review International
+Conference (KERIC; Yeosu, Korea)
+  * 2022: Kittitas Chamber of Commerce Economic Summit (Ellensburg, WA), 97th Western Economic
+Association International (WEAI) Annual Conference (Portland, OR), CSWEP CeMENT
+Workshop (Online)
+  * 2021: ASSA 2021 Poster Session (Online)
   * 2020: Korean Economic Review International Conference (KERIC), Southern Economic Association (SEA) 90th Annual Meeting (Invited)
-  * 2018: T. S. Kim Seminar, Seoul National University, Korea  
+  * 2018: T. S. Kim Seminar, Seoul National University (Seoul, Korea)  
 
-* Refereeing for peer-reviewed journals: Macroeconomic Dynamics; Emerging Markets Finance and Trade; Advances in Economics, Business and Management Research
+* Refereeing for peer-reviewed journals: Macroeconomic Dynamics; Emerging Markets Finance and Trade; Advances in Economics, Business and Management Research; International Journal of Corporate
+Governance (IJCG); International Journal of Accounting & Information Management (IJAIM)
+
+* Committees and Other Services
+  * Assurance of Learning (AoL) Committee, College of Business, CWU, 09/2020-Present.
+  * University Assessment Council, CWU 09/2022-Present.
+  * Principle Investigator for the Student Price Index Project, 09/2021-Present.
+  * CWU Faculty Advisor for the Economics Association, Economics Department, CWU, 09/2021-06/2024.
+  * Library Advisory Council, CWU 07/2022-06/2023.
