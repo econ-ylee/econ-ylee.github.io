@@ -25,7 +25,9 @@ Support us by following the project on Instagram at [@cwuecon_drlee](https://www
 Since its launch, the SPI Project has attracted interest from peer institutions seeking to develop similar, student-centered cost-of-living indices on their campuses. Several colleges and universities have reached out to learn more about the SPI’s methodology, survey design, and implementation. The project team has provided guidance on best practices, data collection strategies, and student engagement models to support these efforts.
 
 Institutions that have expressed interest include:
-![external_interest_logos.png](http://econ-ylee.github.io/files/external_interest_logos.png | width=100)
+<img src="http://econ-ylee.github.io/files/external_interest_logos.png"
+     alt="External interest logos"
+     style="max-width: 300px; width: 80%; height: auto;">
 
 If you are interested or have any questions on the project, please feel free to reach out to me at yurim.lee@cwu.edu. 
 
