@@ -39,31 +39,5 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+@import "custom";
 
-/* ==============================
-   Custom section styling
-   ============================== */
-
-.highlight-section {
-  background-color: #f5f7fa;
-  padding: 2rem;
-  margin: 2.5rem 0;
-  border-radius: 12px;
-}
-
-.callout {
-  background: #eef4ff;
-  border-left: 5px solid #3b6fd8;
-  padding: 1.5rem 2rem;
-  margin: 2rem 0;
-}
-
-.section-light { background: #ffffff; padding: 2rem; }
-.section-gray  { background: #f4f4f4; padding: 2rem; }
-
-.page__content .section-teal {
-  background: #E6F1F2 !important;
-  padding: 2rem;
-  margin: 2rem 0;
-  border-radius: 12px;
-}
