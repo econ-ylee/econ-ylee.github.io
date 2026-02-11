@@ -4,9 +4,7 @@ permalink: /spi/
 author_profile: true
 title: Central Washington University (CWU) Student Price Index (SPI)
 ---
-<div class="section-teal">
-	<h3>From tuition to groceries to gas, we track the prices that shape student life at CWU.</h3>
-</div>
+*From tuition to groceries to gas, we track the prices that shape student life at CWU.*
 
 ## Overview
 
@@ -34,9 +32,14 @@ Institutions that have expressed interest include:
 
 If you are interested or have any questions on the project, please feel free to reach out to me at yurim.lee@cwu.edu. 
 
-## Are You a CWU Student and Interested in Participating?
-
-Fill out [this form](https://forms.office.com/r/BNTDqakXb3) and we will reach out to you via your CWU email.
+<div class="section-teal">
+  <h3>Are You a CWU Student and Interested in Participating?</h3>
+  <p>
+    Fill out
+    <a href="https://forms.office.com/r/BNTDqakXb3">this form</a>
+    and we will reach out to you via your CWU email.
+  </p>
+</div>
 
 ## Monthly Update Reports 
 
