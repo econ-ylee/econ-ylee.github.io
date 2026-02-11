@@ -20,6 +20,7 @@ I received my Ph.D. at University of Washington - Seattle (UW), M.A.s from UW an
   cd "/Users/leeyur/Library/CloudStorage/GoogleDrive-yrlee88@gmail.com/My Drive/MacBook Pro/Important Documents/econ-ylee.github.io" 
   git status ## Show changed files
 git add <FILES THAT CHANGED>
+If deleting files: git rm -r <FILE NAMES>
 ...
 git commit -m "<COMMIT MESSAGE>"
 git push origin master (USER THE PERSONAL KEY AS PASSWORD)
@@ -28,3 +29,4 @@ OR
 git pull origin master
 -->
 
+ 

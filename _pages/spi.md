@@ -4,7 +4,7 @@ permalink: /spi/
 author_profile: true
 title: Central Washington University (CWU) Student Price Index (SPI)
 ---
-From tuition to groceries to gas, we track the prices that shape student life at CWU.
+*From tuition to groceries to gas, we track the prices that shape student life at CWU.*
 
 ## Overview
 
@@ -36,41 +36,41 @@ Fill out [this form](https://forms.office.com/r/BNTDqakXb3) and we will reach ou
 
 Monthly updates on the SPI can be found below, on the [Kittitas County Chamber of Commerce website](https://www.kittitascountychamber.com/choose-kittitas-county/), or on Instagram at [@cwuecon_drlee](https://www.instagram.com/cwuecon_drlee/). 
 
-[Dec 2025](http://econ-ylee.github.io/files/December_2025_CWU_SPI_Report_.pdf) | 
-[Nov 2025](http://econ-ylee.github.io/files/November_2025_CWU_SPI_Report_.pdf) | 
-[Oct 2025](http://econ-ylee.github.io/files/October_2025_CWU_SPI_Report_.pdf) | 
-[Sep 2025](http://econ-ylee.github.io/files/September_2025_CWU_SPI_Report_.pdf) | 
-[Aug 2025](http://econ-ylee.github.io/files/August_2025_CWU_SPI_Report_.pdf) | 
-[Jul 2025](http://econ-ylee.github.io/files/July_2025_CWU_SPI_Report_.pdf) | 
-[Jun 2025](http://econ-ylee.github.io/files/June_2025_CWU_SPI_Report_.pdf) | 
-[May 2025](http://econ-ylee.github.io/files/May_2025_CWU_SPI_Report_.pdf) | 
-[Apr 2025](http://econ-ylee.github.io/files/April_2025_CWU_SPI_Report_.pdf) | 
-[Mar 2025](http://econ-ylee.github.io/files/March_2025_CWU_SPI_Report_.pdf) | 
-[Feb 2025](http://econ-ylee.github.io/files/February_2025_CWU_SPI_Report_.pdf) | 
-[Jan 2025](http://econ-ylee.github.io/files/Janurary_2025_CWU_SPI_Report_.pdf) | 
-[Dec 2024](http://econ-ylee.github.io/files/December_2024_CWU_SPI_Report_.pdf) | 
-[Nov 2024](http://econ-ylee.github.io/files/November_2024_CWU_SPI_Report_.pdf) | 
-[Oct 2024](http://econ-ylee.github.io/files/October_2024_CWU_SPI_Report_.pdf) | 
-[Sep 2024](http://econ-ylee.github.io/files/September_2024_CWU_SPI_Report_.pdf) | 
-[Aug 2024](http://econ-ylee.github.io/files/August_2024_CWU_SPI_Report_.pdf) | 
-[Jul 2024](http://econ-ylee.github.io/files/July_2024_CWU_SPI_Report_.pdf) | 
-[Jun 2024](http://econ-ylee.github.io/files/June_2024_CWU_SPI_Report_.pdf) | 
-[May 2024](http://econ-ylee.github.io/files/May_2024_CWU_SPI_Report_.pdf) | 
-[Apr 2024](http://econ-ylee.github.io/files/April_2024_CWU_SPI_Report_.pdf) | 
-[Mar 2024](http://econ-ylee.github.io/files/March_2024_CWU_SPI_Report_.pdf) | 
-[Feb 2024](http://econ-ylee.github.io/files/February_2024_CWU_SPI_Report_.pdf) | 
-[Jan 2024](http://econ-ylee.github.io/files/Janurary_2024_CWU_SPI_Report_.pdf) | 
-[Dec 2023](http://econ-ylee.github.io/files/December_2023_CWU_SPI_Report_.pdf) | 
-[Nov 2023](http://econ-ylee.github.io/files/November_2023_CWU_SPI_Report_.pdf) | 
-[Oct 2023](http://econ-ylee.github.io/files/October_2023_CWU_SPI_Report_.pdf) | 
-[Sep 2023](http://econ-ylee.github.io/files/September_2023_CWU_SPI_Report_.pdf) | 
-[Apr 2023](http://econ-ylee.github.io/files/April_2023_CWU_SPI_Report_.pdf) | 
-[Mar 2023](http://econ-ylee.github.io/files/March_2023_CWU_SPI_Report_.pdf) | 
-[Feb 2023](http://econ-ylee.github.io/files/February_2023_CWU_SPI_Report_.pdf) | 
-[Jan 2023](http://econ-ylee.github.io/files/Janurary_2023_CWU_SPI_Report_.pdf) | 
-[Dec 2022](http://econ-ylee.github.io/files/December_2022_CWU_SPI_Report_.pdf) | 
-[Nov 2022](http://econ-ylee.github.io/files/November_2022_CWU_SPI_Report_.pdf) | 
-[Oct 2022](http://econ-ylee.github.io/files/October_2022_CWU_SPI_Report_.pdf)
+[Dec 2025](http://econ-ylee.github.io/files/December_2025_CWU_SPI_Report.pdf) | 
+[Nov 2025](http://econ-ylee.github.io/files/November_2025_CWU_SPI_Report.pdf) | 
+[Oct 2025](http://econ-ylee.github.io/files/October_2025_CWU_SPI_Report.pdf) | 
+[Sep 2025](http://econ-ylee.github.io/files/September_2025_CWU_SPI_Report.pdf) | 
+[Aug 2025](http://econ-ylee.github.io/files/August_2025_CWU_SPI_Report.pdf) | 
+[Jul 2025](http://econ-ylee.github.io/files/July_2025_CWU_SPI_Report.pdf) | 
+[Jun 2025](http://econ-ylee.github.io/files/June_2025_CWU_SPI_Report.pdf) | 
+[May 2025](http://econ-ylee.github.io/files/May_2025_CWU_SPI_Report.pdf) | 
+[Apr 2025](http://econ-ylee.github.io/files/April_2025_CWU_SPI_Report.pdf) | 
+[Mar 2025](http://econ-ylee.github.io/files/March_2025_CWU_SPI_Report.pdf) | 
+[Feb 2025](http://econ-ylee.github.io/files/February_2025_CWU_SPI_Report.pdf) | 
+[Jan 2025](http://econ-ylee.github.io/files/Janurary_2025_CWU_SPI_Report.pdf) | 
+[Dec 2024](http://econ-ylee.github.io/files/December_2024_CWU_SPI_Report.pdf) | 
+[Nov 2024](http://econ-ylee.github.io/files/November_2024_CWU_SPI_Report.pdf) | 
+[Oct 2024](http://econ-ylee.github.io/files/October_2024_CWU_SPI_Report.pdf) | 
+[Sep 2024](http://econ-ylee.github.io/files/September_2024_CWU_SPI_Report.pdf) | 
+[Aug 2024](http://econ-ylee.github.io/files/August_2024_CWU_SPI_Report.pdf) | 
+[Jul 2024](http://econ-ylee.github.io/files/July_2024_CWU_SPI_Report.pdf) | 
+[Jun 2024](http://econ-ylee.github.io/files/June_2024_CWU_SPI_Report.pdf) | 
+[May 2024](http://econ-ylee.github.io/files/May_2024_CWU_SPI_Report.pdf) | 
+[Apr 2024](http://econ-ylee.github.io/files/April_2024_CWU_SPI_Report.pdf) | 
+[Mar 2024](http://econ-ylee.github.io/files/March_2024_CWU_SPI_Report.pdf) | 
+[Feb 2024](http://econ-ylee.github.io/files/February_2024_CWU_SPI_Report.pdf) | 
+[Jan 2024](http://econ-ylee.github.io/files/Janurary_2024_CWU_SPI_Report.pdf) | 
+[Dec 2023](http://econ-ylee.github.io/files/December_2023_CWU_SPI_Report.pdf) | 
+[Nov 2023](http://econ-ylee.github.io/files/November_2023_CWU_SPI_Report.pdf) | 
+[Oct 2023](http://econ-ylee.github.io/files/October_2023_CWU_SPI_Report.pdf) | 
+[Sep 2023](http://econ-ylee.github.io/files/September_2023_CWU_SPI_Report.pdf) | 
+[Apr 2023](http://econ-ylee.github.io/files/April_2023_CWU_SPI_Report.pdf) | 
+[Mar 2023](http://econ-ylee.github.io/files/March_2023_CWU_SPI_Report.pdf) | 
+[Feb 2023](http://econ-ylee.github.io/files/February_2023_CWU_SPI_Report.pdf) | 
+[Jan 2023](http://econ-ylee.github.io/files/Janurary_2023_CWU_SPI_Report.pdf) | 
+[Dec 2022](http://econ-ylee.github.io/files/December_2022_CWU_SPI_Report.pdf) | 
+[Nov 2022](http://econ-ylee.github.io/files/November_2022_CWU_SPI_Report.pdf) | 
+[Oct 2022](http://econ-ylee.github.io/files/October_2022_CWU_SPI_Report.pdf)
 
 ## The SPI project has been featured in:
 
