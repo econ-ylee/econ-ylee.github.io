@@ -30,7 +30,7 @@ Institutions that have expressed interest include:
      alt="External interest logos"
      style="max-width: 500px; width: 100%; height: auto;">
 
-If you are interested or have any questions on the project, please feel free to reach out to me at yurim.lee@cwu.edu. 
+If you are interested or have any questions on the project, please feel free to reach out to me at [yurim.lee@cwu.edu](mailto:yurim.lee@cwu.edu). 
 
 <div class="section-teal">
   <h3>Are You a CWU Student and Interested in Participating?</h3>
