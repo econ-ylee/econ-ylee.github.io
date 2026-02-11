@@ -17,7 +17,7 @@ dispute on global rare earth markets and diversification strategies](https://www
 ## Working Papers
 
 * "Strategic Communication and Investor Reactions to Earnings Downgrades," with Han Donker, John Nofsinger, and Laurel Orr. *Under review at Accounting, Organizations, and Society. (ABDC: A*)*
-* "Stablecoins, the GENIUS Act, and Monetary Aggregates: A DSGE Approach." *Under review at Journal of International Financial Markets, Institutions and Money. (ABDC: A)*
+* "Stablecoins, the GENIUS Act, and Monetary Aggregates: A DSGE Approach." *Under review at Journal of International Financial Markets, Institutions and Money. (ABDC: A\*)*
 * "Excessive Firm Turnover in the Shadow of Unemployment."
 
 [Download the latest draft here](http://econ-ylee.github.io/files/ExcessiveFirmTurnoverDraft_YLee.pdf)\
