@@ -4,15 +4,17 @@ permalink: /spi/
 author_profile: true
 title: Central Washington University (CWU) Student Price Index (SPI)
 ---
-*From tuition to groceries to gas, we track the prices that shape student life at CWU.*
+<div class="section-blue">
+	<h3>*From tuition to groceries to gas, we track the prices that shape student life at CWU.*</h3>
+</div>
 
 ## Overview
 
-Since January 2021, the Economics Association and the Department of Economics at Central Washington University have jointly led the Student Price Index (SPI) Project, an initiative designed to measure the true cost of college living in Ellensburg, Washington. As the principal investigator, I lead this project with the goal of creating a practical, student-centered measure of inflation that complements national statistics.
+Since January 2021, the Economics Association and the Department of Economics at Central Washington University have jointly led the Student Price Index (SPI) Project, an initiative designed to measure the true cost of college living in Ellensburg, Washington. As the principal investigator of the project, the goal is to create a practical, student-centered measure of inflation that complements national statistics.
 
 Modeled to align with national standards from the Bureau of Labor Statistics while reflecting the distinctive spending patterns of CWU students, the SPI provides a locally relevant measure of inflation faced by students. Using data from a campus-wide expenditure survey, the project constructs a student-specific basket of goods and services, with weights that reflect how students actually spend their money.
 
-Each month, students collect prices for items in this basket from a wide range of sources, including grocery stores, gas stations, restaurants, housing platforms such as Zillow, local business websites, and on-campus partners such as the Wildcat Shop and Dining Services. These data are used to compute the monthly Student Price Index and student inflation rates, offering timely insights into price changes that directly affect student life in Ellensburg. 
+Each month, students collect prices for items in this basket from a wide range of sources, including grocery stores, gas stations, restaurants, housing platforms such as Zillow, local business websites, and on-campus partners such as the Wildcat Shop (University Bookstore) and Dining Services. These data are used to compute the monthly Student Price Index and student inflation rates, offering timely insights into price changes that directly affect student life in Ellensburg. 
 
 The SPI Project is fundamentally student-centered and experiential. Students play a central role in survey design, data collection, analysis, and reporting, working closely with faculty in a collaborative, low-stakes research environment. Participants gain hands-on experience in economic analysis, data management, statistical software, and professional communication, while also developing presentation and networking skills. Students regularly share their findings with the Kittitas County Chamber of Commerce and present at venues such as CWU Symposium of University Research and Creative Expression (SOURCE), the Pacific Northwest Regional Economic Conference, and the Economics Department’s Economic Outlook Conference. Through sustained engagement, the project not only enhances economic literacy and career readiness but also provides a meaningful opportunity for students to contribute to applied research with real-world impact.
 
@@ -76,12 +78,12 @@ Monthly updates on the SPI can be found below, on the [Kittitas County Chamber o
 [Nov 2022](http://econ-ylee.github.io/files/November_2022_CWU_SPI_Report.pdf) | 
 [Oct 2022](http://econ-ylee.github.io/files/October_2022_CWU_SPI_Report.pdf)
 
-## The SPI project has been featured in:
+## The SPI Project has been featured in:
 
 * [CWU Pulse Magazine, Winter 2023](https://issuu.com/cwupulse/docs/winter_2023).
 * [The Voyage Magazine by the College of Business, CWU, Summer 2023](https://online.flippingbook.com/view/888523620/12/).
 
-## The SPI project has been presented at: 
+## The SPI Project has been presented at: 
 
 * 21st Economic Outlook Conference 2025, Department of Economics, CWU.
 * Pacific Northwest Regional Economics Conference (PNREC) 2025 in Bellingham, Washington.
@@ -95,7 +97,7 @@ Monthly updates on the SPI can be found below, on the [Kittitas County Chamber o
 * CWU Symposium of University Research and Creative Expression (SOURCE) 2022: award recipient for the College of Business.
 * Pacific Northwest Regional Economics Conference (PNREC) 2022 in Hood River, OR.
 
-## The SPI has received: 
+## The SPI Project has received: 
 
 * CWU Career Services Funding, 2025 ($492.93)
 * 2025-26 Faculty-Student Provost Research Grant ($3,000)
@@ -107,7 +109,7 @@ Monthly updates on the SPI can be found below, on the [Kittitas County Chamber o
 * 2022-23 Faculty-Student Provost Research Grant ($3,000)
 
 
-## Student testimonials on the project
+## Student testimonials on the SPI Project
 
 * *“The Student Price Index has allowed me the opportunity to have hands on experience working with large data sets in a non-controlled environment like the classroom. This project has reinforced and built upon critical skills developed in the Economic Department courses.''* - S. Apostolides
 * *“The SPI project has helped develop my ability to think critically and collaborate effectively with my peers. Through this, I have been able to apply theoretical concepts I have learned to real-world applications and better my understanding of economic research.''* - C. McNair
