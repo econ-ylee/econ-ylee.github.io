@@ -32,7 +32,11 @@ Institutions that have expressed interest include:
 
 If you are interested or have any questions on the project, please feel free to reach out to me at [yurim.lee@cwu.edu](mailto:yurim.lee@cwu.edu). 
 
-<div class="section-teal">
+## Are You a CWU Student and Interested in Participating?
+
+Fill out [this form]("https://forms.office.com/r/BNTDqakXb3") and we will reach out to you via your CWU email.
+
+<!-- <div class="section-teal">
   <h3>Are You a CWU Student and Interested in Participating?
   <p>
     Fill out
@@ -40,7 +44,7 @@ If you are interested or have any questions on the project, please feel free to 
     and we will reach out to you via your CWU email.
   </p>
   </h3>
-</div>
+</div> -->
 
 ## Monthly Update Reports 
 
