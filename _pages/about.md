@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an assistant professor in the Department of Economics at Central Washington University (CWU), located in Ellensburg, Washington.  
+I am an Assistant Professor in the Department of Economics at Central Washington University (CWU) in Ellensburg, Washington.  
 
-My research interests are macroeconomics, international economics, labor market, structural reforms and entrepreneurship. Specifically, I study why workers have an incentive to become small mom-and-pop business owners and how this occupational choice can have an effect on business cycle dynamics, macroeconomic inefficiency, and policy reforms. 
+My research examines how institutional structures, policy interventions, and geopolitical risks shape macroeconomic dynamics and financial markets. I study topics at the intersection of macroeconomics, international finance, and corporate behavior - including rare earth supply chain vulnerability, financial market integration, ESG regulation, corporate misconduct, strategic communication, and the monetary implications of stablecoins.
 
-I received my Ph.D. at University of Washington - Seattle (UW), M.A.s from UW and Seoul National University (Seoul, Korea), and B.A. from Yonsei University (Seoul, Korea), majoring in Economics for all of them. 
+Across these projects, my work explores how firms, workers, and policymakers respond to uncertainty and regulatory change, and how these responses affect business cycles, financial stability, and market efficiency.
 
-[Curriculum Vitae](http://econ-ylee.github.io/files/Yurim_Lee_CV_0623.pdf)
+I received my Ph.D. from the University of Washington (Seattle), M.A. degrees from the University of Washington and Seoul National University, and a B.A. from Yonsei University, all in Economics.
+
+<a class="btn-primary" href="http://econ-ylee.github.io/files/Yurim_Lee_CV_Feb2026.pdf">Curriculum Vitae</a>
 
 <!-- On terminal
   cd "/Users/leeyur/Library/CloudStorage/GoogleDrive-yrlee88@gmail.com/My Drive/MacBook Pro/Important Documents/econ-ylee.github.io" 
@@ -22,6 +24,12 @@ I received my Ph.D. at University of Washington - Seattle (UW), M.A.s from UW an
 git add <FILES THAT CHANGED>
 If deleting files: git rm -r <FILE NAMES>
 ...
+
+To see the changes before committing, run:
+bundle exec jekyll serve
+You'll see something like Server address: http://127.0.0.1:4000
+Open the URL in the browser. Everytime a file is saved, the page will auto-refresh.
+
 git commit -m "<COMMIT MESSAGE>"
 git push origin master (USER THE PERSONAL KEY AS PASSWORD)
 

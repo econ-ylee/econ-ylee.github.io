@@ -6,6 +6,12 @@ title: Central Washington University (CWU) Student Price Index (SPI)
 ---
 *From tuition to groceries to gas, we track the prices that shape student life at CWU.*
 
+<div class="section section-teal">
+  <h3>Are You a CWU Student and Interested in Participating?</h3>
+  <p>Fill out the form below and we’ll reach out via your CWU email.</p>
+  <a class="btn-primary" href="https://forms.office.com/r/BNTDqakXb3">Link to Form</a>
+</div>
+
 ## Overview
 
 Since January 2021, the Economics Association and the Department of Economics at Central Washington University have jointly led the Student Price Index (SPI) Project, an initiative designed to measure the true cost of college living in Ellensburg, Washington. As the principal investigator of the project, the goal is to create a practical, student-centered measure of inflation that complements national statistics.
@@ -31,17 +37,6 @@ Institutions that have expressed interest include:
      style="max-width: 500px; width: 100%; height: auto;">
 
 If you are interested or have any questions on the project, please feel free to reach out to me at [yurim.lee@cwu.edu](mailto:yurim.lee@cwu.edu). 
-
-<!-- ## Are You a CWU Student and Interested in Participating?
-
-Fill out [this form]("https://forms.office.com/r/BNTDqakXb3") and we will reach out to you via your CWU email.
- -->
-
-<div class="section section-teal">
-  <h3>Are You a CWU Student and Interested in Participating?</h3>
-  <p>Fill out the form below and we’ll reach out via your CWU email.</p>
-  <a class="btn-primary" href="https://forms.office.com/r/BNTDqakXb3">Sign up form</a>
-</div>
 
 ## Monthly Update Reports 
 
@@ -104,6 +99,7 @@ Monthly updates on the SPI can be found below, on the [Kittitas County Chamber o
 
 ## The SPI Project has received: 
 
+* SLICE Funds – Feb. 2025 ($2,729.13)
 * CWU Career Services Funding, 2025 ($492.93)
 * 2025-26 Faculty-Student Provost Research Grant ($3,000)
 * SLICE Funds – Feb. 2025 ($600)
