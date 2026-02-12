@@ -37,9 +37,10 @@ If you are interested or have any questions on the project, please feel free to 
 Fill out [this form]("https://forms.office.com/r/BNTDqakXb3") and we will reach out to you via your CWU email.
  -->
 
-<div class="section-teal">
+<div class="section section-teal">
   <h3>Are You a CWU Student and Interested in Participating?</h3>
-  <p>Fill out <a href="https://forms.office.com/r/BNTDqakXb3">this form</a> and we’ll reach out via your CWU email.</p>
+  <p>Fill out the form below and we’ll reach out via your CWU email.</p>
+  <a class="btn-primary" href="https://forms.office.com/r/BNTDqakXb3">Sign up form</a>
 </div>
 
 ## Monthly Update Reports 

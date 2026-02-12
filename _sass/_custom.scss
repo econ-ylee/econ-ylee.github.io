@@ -19,15 +19,23 @@
 .section-light { background: #ffffff; padding: 2rem; }
 .section-gray  { background: #f4f4f4; padding: 2rem; }
 
-.archive .section-teal,
-.page__content .section-teal {
-  background: #E6F1F2;
+.page__content .section {
   padding: 2rem;
   margin: 2rem 0;
   border-radius: 12px;
 }
 
-.archive .section-teal h3,
-.page__content .section-teal h3 {
-  margin: 0 0 0.75rem 0;
+.page__content .section-teal {
+  background: #E6F1F2;
 }
+
+.btn-primary {
+  display: inline-block;
+  padding: 0.6rem 1rem;
+  border-radius: 10px;
+  background: #2b6cb0;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+}
+.btn-primary:hover { filter: brightness(0.95); }
