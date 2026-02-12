@@ -37,7 +37,7 @@ If you are interested or have any questions on the project, please feel free to 
 Fill out [this form]("https://forms.office.com/r/BNTDqakXb3") and we will reach out to you via your CWU email.
  -->
 
-<div class="section-teal" style="background:#E6F1F2; padding:2rem; border-radius:12px;">
+<div class="section-teal">
   <h3>Are You a CWU Student and Interested in Participating?</h3>
   <p>Fill out <a href="https://forms.office.com/r/BNTDqakXb3">this form</a> and we’ll reach out via your CWU email.</p>
 </div>
