@@ -19,11 +19,15 @@
 .section-light { background: #ffffff; padding: 2rem; }
 .section-gray  { background: #f4f4f4; padding: 2rem; }
 
-@media print {
-.page__content .section-teal {
-  background: #E6F1F2 !important;
-  padding: 2rem;
-  margin: 2rem 0;
-  border-radius: 12px;
-}
+@media screen {
+  .section-teal {
+    background: #E6F1F2;
+    padding: 2rem;
+    margin: 3rem 0;
+    border-radius: 12px;
+  }
+
+  .section-teal h3 {
+    margin: 0;
+  }
 }
