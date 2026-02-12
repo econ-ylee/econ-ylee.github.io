@@ -42,41 +42,79 @@ If you are interested or have any questions on the project, please feel free to 
 
 Monthly updates on the SPI can be found below, on the [Kittitas County Chamber of Commerce website](https://www.kittitascountychamber.com/choose-kittitas-county/), or on Instagram at [@cwuecon_drlee](https://www.instagram.com/cwuecon_drlee/). 
 
-[Dec 2025](http://econ-ylee.github.io/files/December_2025_CWU_SPI_Report.pdf) | 
-[Nov 2025](http://econ-ylee.github.io/files/November_2025_CWU_SPI_Report.pdf) | 
-[Oct 2025](http://econ-ylee.github.io/files/October_2025_CWU_SPI_Report.pdf) | 
-[Sep 2025](http://econ-ylee.github.io/files/September_2025_CWU_SPI_Report.pdf) | 
-[Aug 2025](http://econ-ylee.github.io/files/August_2025_CWU_SPI_Report.pdf) | 
-[Jul 2025](http://econ-ylee.github.io/files/July_2025_CWU_SPI_Report.pdf) | 
-[Jun 2025](http://econ-ylee.github.io/files/June_2025_CWU_SPI_Report.pdf) | 
-[May 2025](http://econ-ylee.github.io/files/May_2025_CWU_SPI_Report.pdf) | 
-[Apr 2025](http://econ-ylee.github.io/files/April_2025_CWU_SPI_Report.pdf) | 
-[Mar 2025](http://econ-ylee.github.io/files/March_2025_CWU_SPI_Report.pdf) | 
-[Feb 2025](http://econ-ylee.github.io/files/February_2025_CWU_SPI_Report.pdf) | 
-[Jan 2025](http://econ-ylee.github.io/files/Janurary_2025_CWU_SPI_Report.pdf) | 
-[Dec 2024](http://econ-ylee.github.io/files/December_2024_CWU_SPI_Report.pdf) | 
-[Nov 2024](http://econ-ylee.github.io/files/November_2024_CWU_SPI_Report.pdf) | 
-[Oct 2024](http://econ-ylee.github.io/files/October_2024_CWU_SPI_Report.pdf) | 
-[Sep 2024](http://econ-ylee.github.io/files/September_2024_CWU_SPI_Report.pdf) | 
-[Aug 2024](http://econ-ylee.github.io/files/August_2024_CWU_SPI_Report.pdf) | 
-[Jul 2024](http://econ-ylee.github.io/files/July_2024_CWU_SPI_Report.pdf) | 
-[Jun 2024](http://econ-ylee.github.io/files/June_2024_CWU_SPI_Report.pdf) | 
-[May 2024](http://econ-ylee.github.io/files/May_2024_CWU_SPI_Report.pdf) | 
-[Apr 2024](http://econ-ylee.github.io/files/April_2024_CWU_SPI_Report.pdf) | 
-[Mar 2024](http://econ-ylee.github.io/files/March_2024_CWU_SPI_Report.pdf) | 
-[Feb 2024](http://econ-ylee.github.io/files/February_2024_CWU_SPI_Report.pdf) | 
-[Jan 2024](http://econ-ylee.github.io/files/Janurary_2024_CWU_SPI_Report.pdf) | 
-[Dec 2023](http://econ-ylee.github.io/files/December_2023_CWU_SPI_Report.pdf) | 
-[Nov 2023](http://econ-ylee.github.io/files/November_2023_CWU_SPI_Report.pdf) | 
-[Oct 2023](http://econ-ylee.github.io/files/October_2023_CWU_SPI_Report.pdf) | 
-[Sep 2023](http://econ-ylee.github.io/files/September_2023_CWU_SPI_Report.pdf) | 
-[Apr 2023](http://econ-ylee.github.io/files/April_2023_CWU_SPI_Report.pdf) | 
-[Mar 2023](http://econ-ylee.github.io/files/March_2023_CWU_SPI_Report.pdf) | 
-[Feb 2023](http://econ-ylee.github.io/files/February_2023_CWU_SPI_Report.pdf) | 
-[Jan 2023](http://econ-ylee.github.io/files/Janurary_2023_CWU_SPI_Report.pdf) | 
-[Dec 2022](http://econ-ylee.github.io/files/December_2022_CWU_SPI_Report.pdf) | 
-[Nov 2022](http://econ-ylee.github.io/files/November_2022_CWU_SPI_Report.pdf) | 
-[Oct 2022](http://econ-ylee.github.io/files/October_2022_CWU_SPI_Report.pdf)
+<div class="reports-archive">
+
+  <details class="reports-year" open>
+    <summary>2026</summary>
+    <ul class="reports-list">
+      <li><a href="/files/January_2026_CWU_SPI_Report.pdf">January 2026 (Coming Soon)</a></li>
+    </ul>
+  </details>
+
+  <details class="reports-year">
+    <summary>2025</summary>
+    <ul class="reports-list">
+      <li><a href="/files/December_2025_CWU_SPI_Report.pdf">December 2025</a></li>
+      <li><a href="/files/November_2025_CWU_SPI_Report.pdf">November 2025</a></li>
+      <li><a href="/files/October_2025_CWU_SPI_Report.pdf">October 2025</a></li>
+      <li><a href="/files/September_2025_CWU_SPI_Report.pdf">September 2025</a></li>
+      <li><a href="/files/August_2025_CWU_SPI_Report.pdf">August 2025</a></li>
+      <li><a href="/files/July_2025_CWU_SPI_Report.pdf">July 2025</a></li>
+      <li><a href="/files/June_2025_CWU_SPI_Report.pdf">June 2025</a></li>
+      <li><a href="/files/May_2025_CWU_SPI_Report.pdf">May 2025</a></li>
+      <li><a href="/files/April_2025_CWU_SPI_Report.pdf">April 2025</a></li>
+      <li><a href="/files/March_2025_CWU_SPI_Report.pdf">March 2025</a></li>
+      <li><a href="/files/February_2025_CWU_SPI_Report.pdf">February 2025</a></li>
+      <li><a href="/files/January_2025_CWU_SPI_Report.pdf">January 2025</a></li>
+    </ul>
+  </details>
+
+  <details class="reports-year">
+    <summary>2024</summary>
+    <ul class="reports-list">
+      <li><a href="/files/December_2024_CWU_SPI_Report.pdf">December 2024</a></li>
+      <li><a href="/files/November_2024_CWU_SPI_Report.pdf">November 2024</a></li>
+      <li><a href="/files/October_2024_CWU_SPI_Report.pdf">October 2024</a></li>
+      <li><a href="/files/September_2024_CWU_SPI_Report.pdf">September 2024</a></li>
+      <li><a href="/files/August_2024_CWU_SPI_Report.pdf">August 2024</a></li>
+      <li><a href="/files/July_2024_CWU_SPI_Report.pdf">July 2024</a></li>
+      <li><a href="/files/June_2024_CWU_SPI_Report.pdf">June 2024</a></li>
+      <li><a href="/files/May_2024_CWU_SPI_Report.pdf">May 2024</a></li>
+      <li><a href="/files/April_2024_CWU_SPI_Report.pdf">April 2024</a></li>
+      <li><a href="/files/March_2024_CWU_SPI_Report.pdf">March 2024</a></li>
+      <li><a href="/files/February_2024_CWU_SPI_Report.pdf">February 2024</a></li>
+      <li><a href="/files/January_2024_CWU_SPI_Report.pdf">January 2024</a></li>
+    </ul>
+  </details>
+
+  <details class="reports-year">
+    <summary>2023</summary>
+    <ul class="reports-list">
+      <li><a href="/files/December_2023_CWU_SPI_Report.pdf">December 2023</a></li>
+      <li><a href="/files/November_2023_CWU_SPI_Report.pdf">November 2023</a></li>
+      <li><a href="/files/October_2023_CWU_SPI_Report.pdf">October 2023</a></li>
+      <li><a href="/files/September_2023_CWU_SPI_Report.pdf">September 2023</a></li>
+      <li><a href="/files/August_2023_CWU_SPI_Report.pdf">August 2023</a></li>
+      <li><a href="/files/July_2023_CWU_SPI_Report.pdf">July 2023</a></li>
+      <li><a href="/files/June_2023_CWU_SPI_Report.pdf">June 2023</a></li>
+      <li><a href="/files/May_2023_CWU_SPI_Report.pdf">May 2023</a></li>
+      <li><a href="/files/April_2023_CWU_SPI_Report.pdf">April 2023</a></li>
+      <li><a href="/files/March_2023_CWU_SPI_Report.pdf">March 2023</a></li>
+      <li><a href="/files/February_2023_CWU_SPI_Report.pdf">February 2023</a></li>
+      <li><a href="/files/January_2023_CWU_SPI_Report.pdf">January 2023</a></li>
+    </ul>
+  </details>
+
+  <details class="reports-year">
+    <summary>2022</summary>
+    <ul class="reports-list">
+      <li><a href="/files/December_2022_CWU_SPI_Report.pdf">December 2022</a></li>
+      <li><a href="/files/November_2022_CWU_SPI_Report.pdf">November 2022</a></li>
+      <li><a href="/files/October_2022_CWU_SPI_Report.pdf">October 2022</a></li>
+    </ul>
+  </details>
+
+</div>
 
 ## The SPI Project has been featured in:
 
@@ -131,7 +169,7 @@ Monthly updates on the SPI can be found below, on the [Kittitas County Chamber o
 	* SPI Team Members: Erdenetuya (June) Batgerel, Aiden Blanco, Jocelyn Cruz, Morgan Holman, Doan (Dawn) Le, Ryder Moss, Ian Seibel, Cole Smith, Lilly Thomas
 * AY 2023-24
 	* Student Lead: Caden McNair
-	* SPI Team Members: Erin Ahearn, Sophia Apostolides, Jocelyn Cruz, Morgan Holman, Daizie Jones, Cameron Palmer, Amneet Pawar
+	* SPI Team Members: Erin Ahearn, Sophia Apostolides, Jocelyn Cruz, Kaleb Eskridge, James Gibson, Morgan Holman, Daizie Jones, Cameron Palmer, Amneet Pawar, Hunter Schoenfeld
 * AY 2022-23
 	* Student Lead: Caden McNair
 	* SPI Team Members: Sophia Apostolides, Joel Antush, Jocelyn Cruz, Marissa Harrison, Landen Hashimura, Daizie Jones, Jeremy Rexus, Mia Young

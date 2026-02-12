@@ -51,3 +51,69 @@
   font-weight: 600;
 }
 .btn-primary:hover { filter: brightness(0.95); }
+
+/* ===== Monthly Reports Archive (Teal) ===== */
+.reports-archive {
+  margin: 1.25rem 0 2rem;
+}
+
+.reports-year {
+  margin: 0 0 1rem 0;
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid rgba(95, 158, 160, 0.25); /* teal-ish */
+  background: #ffffff;
+}
+
+.reports-year summary {
+  cursor: pointer;
+  list-style: none;
+  padding: 0.9rem 1.1rem;
+  font-weight: 700;
+  color: #2f6f73;              /* teal text */
+  background: #E6F1F2;         /* light teal background */
+  border-bottom: 1px solid rgba(95, 158, 160, 0.25);
+}
+
+/* Hide default marker in some browsers; keep a clean look */
+.reports-year summary::-webkit-details-marker {
+  display: none;
+}
+
+/* Add a custom caret */
+.reports-year summary::after {
+  content: "▸";
+  float: right;
+  transform: translateY(1px);
+  transition: transform 0.15s ease;
+  color: #2f6f73;
+}
+
+.reports-year[open] summary::after {
+  content: "▾";
+}
+
+.reports-list {
+  list-style: none; /* removes bullets */
+  margin: 0;
+  padding: 0.75rem 1.1rem 1rem 1.1rem;
+
+  display: grid;
+  grid-template-columns: 1fr 1fr;   /* two equal columns */
+  gap: 0.4rem 2rem;                 /* row gap / column gap */
+}
+
+.reports-list li {
+  margin: 0.35rem 0;
+}
+
+.reports-list a {
+  text-decoration: none;
+  font-weight: 600;
+  color: #1f4d50; /* darker teal */
+  border-bottom: 1px solid rgba(31, 77, 80, 0.25);
+}
+
+.reports-list a:hover {
+  border-bottom-color: rgba(31, 77, 80, 0.55);
+}
