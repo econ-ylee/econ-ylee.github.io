@@ -117,3 +117,60 @@
 .reports-list a:hover {
   border-bottom-color: rgba(31, 77, 80, 0.55);
 }
+
+.testimonials{
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin: 1.5rem 0 2.5rem;
+}
+
+@media (max-width: 800px){
+  .testimonials{ grid-template-columns: 1fr; }
+}
+
+.t-card{
+  background: #ffffff;
+  border: 1px solid rgba(47,111,115,0.18);
+  border-left: 6px solid #2f6f73;
+  border-radius: 12px;
+  padding: 1.1rem 1.2rem;
+  box-shadow: 0 1px 0 rgba(0,0,0,0.03);
+}
+
+.t-quote{
+  margin: 0;
+  line-height: 1.5;
+}
+
+.t-quote::before{ content: "“"; color: #2f6f73; font-weight: 700; }
+.t-quote::after{ content: "”"; color: #2f6f73; font-weight: 700; }
+
+.t-meta{
+  margin: 0.7rem 0 0;
+  font-size: 0.95rem;
+  color: rgba(31,77,80,0.85);
+  font-style: italic;
+}
+
+/* ==== For Contributors section ==== */
+
+.contributors {
+  margin: 2rem 0 3rem;
+}
+
+.contributors h3 {
+  margin-top: 2rem;
+  padding-bottom: .4rem;
+  border-bottom: 2px solid #E6F1F2;
+}
+
+.contributors .role {
+  font-weight: 600;
+  color: #2f6f73;
+}
+
+.contributors .team-list {
+  margin-top: .5rem;
+  line-height: 1.6;
+}

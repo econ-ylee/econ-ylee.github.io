@@ -14,13 +14,13 @@ title: Central Washington University (CWU) Student Price Index (SPI)
 
 ## Overview
 
-Since January 2021, the Economics Association and the Department of Economics at Central Washington University have jointly led the Student Price Index (SPI) Project, an initiative designed to measure the true cost of college living in Ellensburg, Washington. As the principal investigator of the project, the goal is to create a practical, student-centered measure of inflation that complements national statistics.
+Since January 2021, the Economics Association and the Department of Economics at Central Washington University have jointly led the Student Price Index (SPI) Project, an initiative designed to measure the true cost of college living in Ellensburg, Washington. As the principal investigator of the project, the goal is to create a **practical, student-centered measure of inflation that complements national statistics**.
 
-Modeled to align with national standards from the Bureau of Labor Statistics while reflecting the distinctive spending patterns of CWU students, the SPI provides a locally relevant measure of inflation faced by students. Using data from a campus-wide expenditure survey, the project constructs a student-specific basket of goods and services, with weights that reflect how students actually spend their money.
+Modeled to align with national standards from the Bureau of Labor Statistics while reflecting the distinctive spending patterns of CWU students, **the SPI provides a locally relevant measure of inflation faced by students**. Using data from a campus-wide expenditure survey, the project constructs a student-specific basket of goods and services, with weights that reflect how students actually spend their money.
 
 Each month, students collect prices for items in this basket from a wide range of sources, including grocery stores, gas stations, restaurants, housing platforms such as Zillow, local business websites, and on-campus partners such as the Wildcat Shop (University Bookstore) and Dining Services. These data are used to compute the monthly Student Price Index and student inflation rates, offering timely insights into price changes that directly affect student life in Ellensburg. 
 
-The SPI Project is fundamentally student-centered and experiential. Students play a central role in survey design, data collection, analysis, and reporting, working closely with faculty in a collaborative, low-stakes research environment. Participants gain hands-on experience in economic analysis, data management, statistical software, and professional communication, while also developing presentation and networking skills. Students regularly share their findings with the Kittitas County Chamber of Commerce and present at venues such as CWU Symposium of University Research and Creative Expression (SOURCE), the Pacific Northwest Regional Economic Conference, and the Economics Department’s Economic Outlook Conference. Through sustained engagement, the project not only enhances economic literacy and career readiness but also provides a meaningful opportunity for students to contribute to applied research with real-world impact.
+**The SPI Project is fundamentally student-centered and experiential**. Students play a central role in survey design, data collection, analysis, and reporting, working closely with faculty in a collaborative, low-stakes research environment. Participants gain hands-on experience in economic analysis, data management, statistical software, and professional communication, while also developing presentation and networking skills. Students regularly share their findings with the Kittitas County Chamber of Commerce and present at venues such as [CWU Symposium of University Research and Creative Expression (SOURCE)](https://www.cwu.edu/academics/research/undergrad-research/source/index.php), the [Pacific Northwest Regional Economic Conference](https://pnrec.org), and the Economics Department’s [Economic Outlook Conference](https://www.cwu.edu/academics/colleges/college-business/economics/eoc.php). Through sustained engagement, the project not only enhances economic literacy and career readiness but also provides a meaningful opportunity for students to contribute to applied research with real-world impact.
 
 Support us by following the project on Instagram at [@cwuecon_drlee](https://www.instagram.com/cwuecon_drlee/)! 
 
@@ -150,26 +150,84 @@ Monthly updates on the SPI can be found below, on the [Kittitas County Chamber o
 
 ## Student testimonials on the SPI Project
 
-* *“The Student Price Index has allowed me the opportunity to have hands on experience working with large data sets in a non-controlled environment like the classroom. This project has reinforced and built upon critical skills developed in the Economic Department courses.''* - S. Apostolides
-* *“The SPI project has helped develop my ability to think critically and collaborate effectively with my peers. Through this, I have been able to apply theoretical concepts I have learned to real-world applications and better my understanding of economic research.''* - C. McNair
-* *“As an economics student, the SPI gave me the chance to engage in academic research from an early stage. Starting as a presenter and price collector, my involvement boosted my confidence as a researcher and allowed me to see real-world applications of economics. This experience sparked a passion for research, leading me to pursue a master's degree, a future Ph.D., and a career in academia. As the youngest in my master's cohort, the SPI project has helped me thrive in academic discussions and provided a sense of belonging and accomplishment that continues to shape my work.''* - L. Hashimura
+<div class="testimonials">
+  <div class="t-card">
+    <p class="t-quote">The Student Price Index has allowed me the opportunity to have hands on experience working with large data sets in a non-controlled environment like the classroom. This project has reinforced and built upon critical skills developed in the Economic Department courses.</p>
+    <p class="t-meta">- Sophia A.</p>
+  </div>
 
-## Contributors
+  <div class="t-card">
+    <p class="t-quote">The SPI project has helped develop my ability to think critically and collaborate effectively with my peers. Through this, I have been able to apply theoretical concepts I have learned to real-world applications and better my understanding of economic research.</p>
+    <p class="t-meta">- Caden M.</p>
+  </div>
 
-* Faculty Advisor and Principal Investigator: Dr. Yurim Lee
-* Co-Advisor on the Student Expenditure Survey: Dr. David Zuckerman, CWU
+  <div class="t-card">
+    <p class="t-quote">As an economics student, the SPI gave me the chance to engage in academic research from an early stage. Starting as a presenter and price collector, my involvement boosted my confidence as a researcher and allowed me to see real-world applications of economics. This experience sparked a passion for research, leading me to pursue a master's degree, a future Ph.D., and a career in academia. As the youngest in my master's cohort, the SPI project has helped me thrive in academic discussions and provided a sense of belonging and accomplishment that continues to shape my work.</p>
+    <p class="t-meta">- Landen H.</p>
+  </div>
+</div>
 
-### Student Contributors
+<div class="contributors">
 
-* AY 2025-26
-	* Student Lead: Erdenetuya (June) Batgerel
-	* SPI Team Members: Aiden Blanco, Doan (Dawn) Le, Hayden Hobbick, Kaelan Kavanaugh, Ririna Yamamoto, Sofia Ayala- Cordova, Diego Garza, Sara Walters, Riley Klein, Luke Hogan, Julio Brizuela
-* AY 2024-25
-	* Student Lead: Amneet Pawar
-	* SPI Team Members: Erdenetuya (June) Batgerel, Aiden Blanco, Jocelyn Cruz, Morgan Holman, Doan (Dawn) Le, Ryder Moss, Ian Seibel, Cole Smith, Lilly Thomas
-* AY 2023-24
-	* Student Lead: Caden McNair
-	* SPI Team Members: Erin Ahearn, Sophia Apostolides, Jocelyn Cruz, Kaleb Eskridge, James Gibson, Morgan Holman, Daizie Jones, Cameron Palmer, Amneet Pawar, Hunter Schoenfeld
-* AY 2022-23
-	* Student Lead: Caden McNair
-	* SPI Team Members: Sophia Apostolides, Joel Antush, Jocelyn Cruz, Marissa Harrison, Landen Hashimura, Daizie Jones, Jeremy Rexus, Mia Young
+  <h2>Contributors</h2>
+
+  <h3>Faculty Advisors</h3>
+  <p>
+    <span class="role">Faculty Advisor and Principal Investigator:</span>
+    Dr. Yurim Lee
+  </p>
+  <p>
+    <span class="role">Co-Advisor on the Student Expenditure Survey:</span>
+    Dr. David Zuckerman, CWU
+  </p>
+
+  <h3>AY 2025-26</h3>
+  <p>
+    <span class="role">Student Lead:</span>
+    Erdenetuya (June) Batgerel
+  </p>
+  <p class="team-list">
+    <span class="role">SPI Team Members:</span><br>
+    Aiden Blanco • Doan (Dawn) Le • Hayden Hobbick • Kaelan Kavanaugh •
+    Ririna Yamamoto • Sofia Ayala-Cordova • Diego Garza •
+    Sara Walters • Riley Klein • Luke Hogan • Julio Brizuela
+  </p>
+
+  <h3>AY 2024-25</h3>
+  <p>
+    <span class="role">Student Lead:</span>
+    Amneet Pawar
+  </p>
+  <p class="team-list">
+    <span class="role">SPI Team Members:</span><br>
+    Erdenetuya (June) Batgerel • Aiden Blanco • Jocelyn Cruz •
+    Morgan Holman • Doan (Dawn) Le • Ryder Moss •
+    Ian Seibel • Cole Smith • Lilly Thomas
+  </p>
+
+  <h3>AY 2023-24</h3>
+  <p>
+    <span class="role">Student Lead:</span>
+    Caden McNair
+  </p>
+  <p class="team-list">
+    <span class="role">SPI Team Members:</span><br>
+    Erin Ahearn • Sophia Apostolides • Jocelyn Cruz •
+    Kaleb Eskridge • James Gibson • Morgan Holman •
+    Daizie Jones • Cameron Palmer • Amneet Pawar •
+    Hunter Schoenfeld
+  </p>
+
+  <h3>AY 2022-23</h3>
+  <p>
+    <span class="role">Student Lead:</span>
+    Caden McNair
+  </p>
+  <p class="team-list">
+    <span class="role">SPI Team Members:</span><br>
+    Sophia Apostolides • Joel Antush • Jocelyn Cruz •
+    Marissa Harrison • Landen Hashimura •
+    Daizie Jones • Jeremy Rexus • Mia Young
+  </p>
+
+</div>
