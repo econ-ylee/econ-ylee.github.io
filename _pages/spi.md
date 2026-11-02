@@ -47,7 +47,15 @@ Monthly updates on the SPI can be found below, on the [Kittitas County Chamber o
   <details class="reports-year" open>
     <summary>2026</summary>
     <ul class="reports-list">
-      <li><a href="/files/January_2026_CWU_SPI_Report.pdf">January 2026 (Coming Soon)</a></li>
+      <li><a href="/files/September_2026_CWU_SPI_Report.pdf">September 2026 (Coming Soon)</a></li>
+      <li><a href="/files/August_2026_CWU_SPI_Report.pdf">August 2026</a></li>
+      <li><a href="/files/July_2026_CWU_SPI_Report.pdf">July 2026</a></li>
+      <li><a href="/files/June_2026_CWU_SPI_Report.pdf">June 2026</a></li>
+      <li><a href="/files/May_2026_CWU_SPI_Report.pdf">May 2026</a></li>
+      <li><a href="/files/April_2026_CWU_SPI_Report.pdf">April 2026</a></li>
+      <li><a href="/files/March_2026_CWU_SPI_Report.pdf">March 2026</a></li>
+      <li><a href="/files/February_2026_CWU_SPI_Report.pdf">February 2026</a></li>
+      <li><a href="/files/January_2026_CWU_SPI_Report.pdf">January 2026</a></li>
     </ul>
   </details>
 
@@ -123,6 +131,8 @@ Monthly updates on the SPI can be found below, on the [Kittitas County Chamber o
 
 ## The SPI Project has been presented at: 
 
+* 22nd Economic Outlook Conference 2026, Department of Economics, CWU.
+* Pacific Northwest Regional Economics Conference (PNREC) 2026 in Portland, Oregon.
 * 21st Economic Outlook Conference 2025, Department of Economics, CWU.
 * Pacific Northwest Regional Economics Conference (PNREC) 2025 in Bellingham, Washington.
 * CWU Symposium of University Research and Creative Expression (SOURCE) 2025.
@@ -181,6 +191,16 @@ Monthly updates on the SPI can be found below, on the [Kittitas County Chamber o
     Dr. David Zuckerman, CWU
   </p>
 
+  <h3>AY 2026-27</h3>
+  <p>
+    <span class="role">Student Lead:</span>
+    Hayden Hobbick
+  </p>
+  <p class="team-list">
+    <span class="role">SPI Team Members:</span><br>
+    Sofia Ayala-Cordova • Ieva Gaievska • Diego Garza • Allen Guzman • Hayden Hobbick • Luke Hogan • Kaelan Kavanaugh • Genobia King-Webster • Riley Klein • Doan Le • Luca Masuccio • Miguel Ramos • Tyler Roach • Stella Stricker • Abby Tutuko • Sara Walters • Chase Wassell • Ririna Yamamoto • Natalie Young
+  </p>
+
   <h3>AY 2025-26</h3>
   <p>
     <span class="role">Student Lead:</span>
@@ -188,9 +208,8 @@ Monthly updates on the SPI can be found below, on the [Kittitas County Chamber o
   </p>
   <p class="team-list">
     <span class="role">SPI Team Members:</span><br>
-    Aiden Blanco • Doan (Dawn) Le • Hayden Hobbick • Kaelan Kavanaugh •
-    Ririna Yamamoto • Sofia Ayala-Cordova • Diego Garza •
-    Sara Walters • Riley Klein • Luke Hogan • Julio Brizuela
+    Aiden Blanco • Doan (Dawn) Le • Hayden Hobbick • Kaelan Kavanaugh • Ririna Yamamoto • Sofia Ayala-Cordova • Diego Garza •
+    Sara Walters • Riley Klein • Luke Hogan • Miguel Ramos • Tyler Roach • Ieva Gaievska
   </p>
 
   <h3>AY 2024-25</h3>

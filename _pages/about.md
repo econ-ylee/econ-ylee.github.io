@@ -16,7 +16,7 @@ Across these projects, my work explores how firms, workers, and policymakers res
 
 I received my Ph.D. from the University of Washington (Seattle), M.A. degrees from the University of Washington and Seoul National University, and a B.A. from Yonsei University, all in Economics.
 
-<a class="btn-primary" href="http://econ-ylee.github.io/files/Yurim_Lee_CV_Feb2026.pdf">Curriculum Vitae</a>
+<a class="btn-primary" href="http://econ-ylee.github.io/files/Yurim_Lee_CV_Oct2026.pdf">Curriculum Vitae</a>
 
 <!-- On terminal
   cd "/Users/leeyur/Library/CloudStorage/GoogleDrive-yrlee88@gmail.com/My Drive/MacBook Pro/Important Documents/econ-ylee.github.io" 
