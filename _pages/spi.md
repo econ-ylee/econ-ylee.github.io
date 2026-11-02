@@ -14,7 +14,7 @@ title: Central Washington University (CWU) Student Price Index (SPI)
 
 ## Overview
 
-Since January 2021, the Economics Association and the Department of Economics at Central Washington University have jointly led the Student Price Index (SPI) Project, an initiative designed to measure the true cost of college living in Ellensburg, Washington. As the principal investigator of the project, the goal is to create a **practical, student-centered measure of inflation that complements national statistics**.
+Since 2019, the Economics Association and the Department of Economics and Business Analytics at Central Washington University have jointly supported the Student Price Index (SPI) Project, an initiative designed to measure the true cost of college living in Ellensburg, Washington. As the principal investigator of the project, the goal is to create a **practical, student-centered measure of inflation that complements national statistics**.
 
 Modeled to align with national standards from the Bureau of Labor Statistics while reflecting the distinctive spending patterns of CWU students, **the SPI provides a locally relevant measure of inflation faced by students**. Using data from a campus-wide expenditure survey, the project constructs a student-specific basket of goods and services, with weights that reflect how students actually spend their money.
 

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Department of Economics at Central Washington University (CWU) in Ellensburg, Washington.  
+I am an Assistant Professor in the Department of Economics and Business Analytics at Central Washington University (CWU) in Ellensburg, Washington.  
 
 My research examines how institutional structures, policy interventions, and geopolitical risks shape macroeconomic dynamics and financial markets. I study topics at the intersection of macroeconomics, international finance, and corporate behavior - including rare earth supply chain vulnerability, financial market integration, ESG regulation, corporate misconduct, strategic communication, and the monetary implications of digital currency.
 
@@ -27,7 +27,7 @@ If deleting files: git rm -r <FILE NAMES>
 
 To see the changes before committing, run:
 bundle exec jekyll serve
-You'll see something like Server address: http://127.0.0.1:4000
+You'll see something like Server address: http://127.0.0.1:4000/
 Open the URL in the browser. Everytime a file is saved, the page will auto-refresh.
 Exit preview by Ctrl + C.
 

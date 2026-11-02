@@ -12,6 +12,7 @@ author_profile: true
 - ECON 202 Principles of Economics Macro
 - ECON 330 Money and Banking 
 - ECON 402 Intermediate Macroeconomics Analysis
+- BUAN 406/506 Business Analytics
 
 ### University of Washington - Seattle, WA
 - ECON 201 Introduction to Macroeconomics
